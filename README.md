@@ -1,2 +1,2 @@
 # git-practice
-learning GitHub
+Best hosting service.
